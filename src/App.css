@@ -1,0 +1,27 @@
+.App {
+  padding-top: 36px;
+  text-align: center;
+}
+
+.SearchForm-wrapper{
+  padding-top: 50px;;
+  display: flex;
+  justify-content: center;
+}
+
+
+.Listapeliculas{
+ max-width: 95vw;
+ display : flex;
+ flex-wrap : wrap;
+ justify-content : space-between;
+ padding: 16px;
+}
+
+.Listapeliculas_Item{
+ margin-bottom : 24px;
+ width: 48%; 
+}
+
+
+
